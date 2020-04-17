@@ -4,3 +4,7 @@ This project is about creating a tool that can be started with the right mouse b
 In diesem Projekt geht es darum, ein Tool zu erstellen welches durch die Rechtemaustaste gestartet werden kann. Das Tool dient zum berechnen von Hashwerten. Um das Tool mit rechtsklick zu nutzten muss dieses Tool in der Registry installiert werden. Dafür werden Schlüssel angelegt, welche dann das tool im Rechtsklickmenü anzeigen. 
 
 ![alt text](https://github.com/EmErOne/Hashing/blob/master/Project/RrightClickExample.png)
+
+
+![alt text](https://github.com/EmErOne/Hashing/blob/master/Project/App.png)
+
